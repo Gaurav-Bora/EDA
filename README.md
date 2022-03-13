@@ -1,2 +1,2 @@
 # EDA
-EDA for For Different Real Time Datasets.
+Exploratory Data Analysis for For Different Real Time Datasets.
